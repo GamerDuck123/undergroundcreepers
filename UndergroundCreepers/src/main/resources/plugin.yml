@@ -1,0 +1,4 @@
+name: UndergroundCreepers
+main: com.gamerduck.UGMain
+version: ${project.version}
+description: kek
